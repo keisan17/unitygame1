@@ -1,6 +1,6 @@
 using UnityEngine;
 
-//hoge
+//hoge//hoge2
 
 public class PlayerHealth : MonoBehaviour
 {
